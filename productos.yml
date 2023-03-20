@@ -1,0 +1,9 @@
+server:
+  port: 3000
+product:
+  discount: 40%
+management:
+  endpoints:
+    web:
+      experience:
+        include: "*"
