@@ -6,4 +6,4 @@ management:
   endpoints:
     web:
       expose:
-        include: "*"
+        include: refresh
