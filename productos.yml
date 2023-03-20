@@ -6,4 +6,4 @@ management:
   endpoints:
     web:
       experience:
-        include: "*"
+        include: *
