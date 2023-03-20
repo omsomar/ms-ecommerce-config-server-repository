@@ -5,5 +5,5 @@ product:
 management:
   endpoints:
     web:
-      experience:
+      exposure:
         include: "*"
