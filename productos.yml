@@ -4,7 +4,6 @@ product:
   discount: 35%
 management:
   endpoints:
-    enable-by-default: true
     web:
-      exposure:
+      expose:
         include: "*"
