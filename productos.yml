@@ -1,5 +1,5 @@
 server:
-    port: 3000
+    port: 0
 product:
   discount: 55%
 management:
