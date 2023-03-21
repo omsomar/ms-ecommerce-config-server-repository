@@ -1,7 +1,7 @@
 server:
   port: 3000
 product:
-  discount: 45%
+  discount: 55%
 management:
   endpoints:
     web:
