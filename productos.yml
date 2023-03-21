@@ -5,7 +5,7 @@ product:
 management:
   endpoints:
     web:
-      expose:
+      exposure:
         include: "*"
 spring:
   rabbitmq:
