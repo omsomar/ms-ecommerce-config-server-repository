@@ -1,0 +1,1 @@
+# ms-ecommerce-config-server-repository
