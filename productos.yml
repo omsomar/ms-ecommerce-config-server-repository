@@ -1,7 +1,7 @@
 server:
     port: 0
 product:
-  discount: 75%
+  discount: 85%
 management:
   endpoints:
     web:
